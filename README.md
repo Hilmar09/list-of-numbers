@@ -1,0 +1,1 @@
+I have made a list of numbers, which I then place in descending order, using Arraylist and bubbles, which seemed to me to be the most comfortable method to create my list, what you have to be clear about is that the array, its matrix starts from 0 and is you have to subtract 1.
